@@ -1,0 +1,9 @@
+streamlit
+scapy
+pandas
+numpy
+plotly
+scikit-learn
+joblib
+sqlalchemy
+psutil
